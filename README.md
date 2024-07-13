@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @REYES0120
-- 👀 I’m interested in python discord.py
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in website devloppement
+
 
 <!---
 REYES0120/REYES0120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
